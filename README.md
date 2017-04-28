@@ -1,6 +1,6 @@
 # Movie Trailer Project
-Author: Rigoberto Gort
-Date: 01/24/2017
+**Author:** Rigoberto Gort
+**Date:** 01/24/2017
 
 ## Project Info
 **Filename:** README.md
